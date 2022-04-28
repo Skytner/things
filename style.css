@@ -1,0 +1,35 @@
+body {
+  background-color: #2d343a;
+  color: white;
+}
+
+.header {
+  text-align: center;
+}
+
+.unique__password {
+  color: #cf471d;
+}
+
+.navigation {
+  padding: 0px 0px 0px 25px;
+}
+
+a {
+  text-decoration: none;
+  color: #cfbe32;
+}
+
+.block {
+  padding: 20px 0px 0px 50px;
+  font-size: 20px;
+}
+
+footer {
+  padding: 20px 0px 0px 50px;
+}
+
+img {
+  width: 30px;
+  height: 30px;
+}
